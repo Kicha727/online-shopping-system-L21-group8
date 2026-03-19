@@ -5,12 +5,6 @@ Group: 8
 
 A simple, responsive online shopping demo built with Next.js, Tailwind CSS, and Local Storage only.
 
-This project is intentionally frontend-only for learning/demo use:
-
-- No database
-- No backend server
-- No external APIs
-
 ## Live Project Structure
 
 The actual app is located in [shop](shop).
